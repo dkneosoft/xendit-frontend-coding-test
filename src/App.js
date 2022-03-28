@@ -47,7 +47,6 @@ class App extends Component {
     // 
   }
 
-
   render() {
 
     let appLayout = <>
